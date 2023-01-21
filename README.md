@@ -17,8 +17,3 @@ Here are some ideas to get you started:
 
 
 ##
-<p align=center>
-    <a href="https://github.com/TsionZerihun" title="Tsion profile">
-      <img width=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsionZerihun&hide=c%23&langs_count=10,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fabd2f&text_color=ffffff&icon_color=fabd2f&bg_color=282828&langs_count=8&layout=compact&border_color=fabd2f&hide_border=true" />
-    </a>
-</p>
